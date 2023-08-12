@@ -31,7 +31,7 @@ Sou Alisson Fontes, e você é muito bem-vindo(a) aqui!
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="SAS" height="30" width="40" src="ícone-do-sas.svg">
+  <img align="center" alt="SAS" height="30" width="40" src="https://prnt.sc/_lIANc73CT81">
   <img align="center" alt="SQL" height="30" width="40" src="ícone-do-sql.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">

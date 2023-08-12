@@ -2,7 +2,7 @@
 
 Sou Alisson Fontes, e você é muito bem-vindo(a) aqui!
 
-- 💻 Atualmente estou trabalhando em um projeto de um robô que utiliza Machine Learning para análise técnica do mercado financeiro.
+- 💻 Atualmente estou trabalhando em um projeto de um robô que utiliza Machine Learning para mercado financeiro.
 - 🌍 Atualmente moro na terra rsrs
 - 📹 Também contribuo para a comunidade de desenvolvedores com vídeos no meu Canal Tudo mais Constante.
 - 😎 Meus hobbies incluem Viagens ✈️, Ciclismo 🚲, e Jogos 🎮.

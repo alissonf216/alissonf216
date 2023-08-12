@@ -4,8 +4,9 @@ Sou Alisson Fontes, e você é muito bem-vindo(a) aqui!
 
 - 💻 Atualmente estou trabalhando em um projeto de código aberto para gerar aplicativos .Net a partir de um Mapa Mental.
 - 🌍 Atualmente moro em [Sua Localização].
-- 📹 Também contribuo para a comunidade de desenvolvedores com vídeos no - <a href="https://www.youtube.com/c/NicolasFontes" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-- 😎 Meus hobbies incluem Família 👪, Viagens ✈️, Ciclismo 🚲, Jogos 🎮 e Culinária 👨‍🍳.
+- 📹 Também contribuo para a comunidade de desenvolvedores com vídeos no meu Canal Tudo mais Constante.
+- 😎 Meus hobbies incluem Viagens ✈️, Ciclismo 🚲, e Jogos 🎮.
+- 🎸 Além disso, amo tocar guitarra e violão 🎸 e me dedicar à academia 🏋️‍♂️.
 
 <div>
   <a href="https://www.youtube.com/TudoMaisConstante" target="_blank">

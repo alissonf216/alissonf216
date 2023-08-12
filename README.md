@@ -2,8 +2,8 @@
 
 Sou Alisson Fontes, e você é muito bem-vindo(a) aqui!
 
-- 💻 Atualmente estou trabalhando em um projeto de código aberto para gerar aplicativos .Net a partir de um Mapa Mental.
-- 🌍 Atualmente moro em [Sua Localização].
+- 💻 Atualmente estou trabalhando em um projeto de um robô que utiliza Machine Learning para análise técnica do mercado financeiro.
+- 🌍 Atualmente moro na terra rsrs
 - 📹 Também contribuo para a comunidade de desenvolvedores com vídeos no meu Canal Tudo mais Constante.
 - 😎 Meus hobbies incluem Viagens ✈️, Ciclismo 🚲, e Jogos 🎮.
 - 🎸 Além disso, amo tocar guitarra e violão 🎸 e me dedicar à academia 🏋️‍♂️.
@@ -24,8 +24,8 @@ Sou Alisson Fontes, e você é muito bem-vindo(a) aqui!
 
 <div align="center">
   <a href="https://github.com/alissonf216?tab=repositories">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alissonf216&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonf216&layout=compact&langs_count=7&theme=dark"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=alissonf216&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonf216&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
  

@@ -5,7 +5,7 @@ Sou Alisson Oliveira, e você é muito bem-vindo(a) aqui!
 - 💻 Atualmente estou trabalhando em um projeto de um robô que utiliza Machine Learning para mercado financeiro.
 - 🌍 Atualmente moro na terra rsrs
 - 📹 Também contribuo para a comunidade de desenvolvedores com vídeos no meu Canal Tudo mais Constante.
-- 😎 Meus hobbies incluem Viagens ✈️, Ciclismo 🚲, e Jogos 🎮.
+- 😎 Meus hobbies incluem Viagens ✈️, Esportes 🚲, e Jogos 🎮.
 - 🎸 Além disso, amo tocar guitarra e violão 🎸 e me dedicar à academia 🏋️‍♂️.
 
 <div>

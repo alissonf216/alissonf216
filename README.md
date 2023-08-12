@@ -18,6 +18,7 @@ Sou Alisson Oliveira, e você é muito bem-vindo(a) aqui!
   <a href="https://www.linkedin.com/in/alissonfranclin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href = "mailto:alissonf216@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <hr/>

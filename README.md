@@ -12,7 +12,7 @@ Sou apaixonado por (inserir suas áreas de interesse), e aqui você encontrará 
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=alissonf216&show_icons=true&count_private=true&hide=contribs,prs)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-alissonf216&layout=compact)
 
 
 ## Tecnologias e Ferramentas

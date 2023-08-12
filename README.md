@@ -1,6 +1,6 @@
 ### Olá! Bem-vindo ao meu perfil do GitHub! 👋
 
-Sou Alisson Fontes, e você é muito bem-vindo(a) aqui!
+Sou Alisson Oliveira, e você é muito bem-vindo(a) aqui!
 
 - 💻 Atualmente estou trabalhando em um projeto de um robô que utiliza Machine Learning para mercado financeiro.
 - 🌍 Atualmente moro na terra rsrs

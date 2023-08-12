@@ -10,7 +10,7 @@ Sou apaixonado por (inserir suas áreas de interesse), e aqui você encontrará 
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&count_private=true&hide=contribs,prs)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=alissonf216&show_icons=true&count_private=true&hide=contribs,prs)
 
 ## Tecnologias e Ferramentas
 

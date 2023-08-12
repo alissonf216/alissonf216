@@ -24,8 +24,8 @@ Sou Alisson Fontes, e você é muito bem-vindo(a) aqui!
 
 <div align="center">
   <a href="https://github.com/alissonf216?tab=repositories">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=alissonf216&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonf216&layout=compact&langs_count=7&theme=dark"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alissonf216&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonf216&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
  

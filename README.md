@@ -29,7 +29,7 @@ Sou Alisson Oliveira, e você é muito bem-vindo(a) aqui!
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonf216&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
- 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <!--   <img align="center" alt="SAS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sas/sas-original.svg">

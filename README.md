@@ -48,8 +48,6 @@ My core focus lies in developing robust NLP frameworks for complex, real-world d
 
 ---
 
----
-
 ### 📊 **GitHub Activity & Tech Focus**
 
 <div align="center">
@@ -57,18 +55,7 @@ My core focus lies in developing robust NLP frameworks for complex, real-world d
 </div>
 
 <br/>
-
 <div align="center">
   <img src="https://ghchart.rshah.org/409ba5/alissonf216" alt="Alisson's Github Contributions Graph" width="100%" />
 </div>
-
 <br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-</p>

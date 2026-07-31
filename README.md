@@ -50,9 +50,9 @@ My core focus lies in developing robust NLP frameworks for complex, real-world d
 
 ### 📊 **GitHub Activity & Tech Focus**
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alissonf216&theme=dark&hide_border=true" alt="GitHub Streak Stats" width="80%" />
-</div>
+</div> -->
 
 <br/>
 <div align="center">

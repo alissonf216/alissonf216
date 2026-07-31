@@ -1,42 +1,57 @@
-### Olá! Bem-vindo ao meu perfil do GitHub! 👋
+# Hi there, I'm Alisson Oliveira 👋
 
-Sou Alisson Oliveira, e você é muito bem-vindo(a) aqui!
+### **M.Sc. in Computer Science | AI & NLP Researcher | Senior Software Engineer**
 
-- 💻 Atualmente estou trabalhando em um projeto de um robô que utiliza Machine Learning para mercado financeiro.
-- 🌍 Atualmente moro na terra rsrs.
-- 📹 Também contribuo para a comunidade de desenvolvedores com vídeos no meu Canal Tudo mais Constante.
-- 😎 Meus hobbies incluem Viagens ✈️, Esportes 🚲 e Jogos 🎮.
-- 🎸 Além disso, amo tocar guitarra e violão 🎸 e me dedicar à academia 🏋️‍♂️.
+I am a Computer Science Master's researcher and Software Engineer specialized in **Natural Language Processing (NLP)**, **Applied Machine Learning**, and **Production-Grade Software Architecture**. 
 
-<div>
+My core focus lies in developing robust NLP frameworks for complex, real-world domains—such as auditing formal political discourse using Transformers and building LLM integrations via modern protocols like MCP (Model Context Protocol).
+
+---
+
+### 🔬 **Research & Technical Focus**
+- **Natural Language Processing (NLP):** Fine-tuning Transformers (BERT, RoBERTa, LLMs), Severe Data Imbalance Mitigation, Ethical AI, and Text Classification.
+- **AI Systems & Integration:** Model Context Protocol (MCP), Agentic Workflows, RAG Architecture, and API Development.
+- **Data Science & Math:** Mathematical Modeling, Applied Statistics, and Predictive Engines.
+- **DevOps & Cloud Infrastructure:** Docker Containerization, CI/CD, GCP, Vercel, Supabase, and Scalable Backend Architecture.
+
+---
+
+### 🎯 **Key Projects & Contributions**
+- 🏛️ **[Parliamentary NLP MCP Server](https://github.com/alissonf216/parliamentary-nlp-mcp):** A Model Context Protocol (MCP) server designed to audit, classify, and inspect offensive language and hate speech in formal legislative proceedings using custom fine-tuned models.
+- 🚀 **[Licitera Architecture]:** SaaS platform & automated bidding engines built for public procurement monitoring using advanced text extraction and real-time processing.
+- 📺 **[Tudo Mais Constante]:** Technical content creation focused on Data Science, Software Development, and Applied Mathematics.
+
+---
+
+### 🛠️ **Tech Stack & Tools**
+
+**Languages & AI/ML:**
+`Python` • `PyTorch` • `Hugging Face` • `TypeScript` • `JavaScript` • `SQL` • `Applied Math/Statistics`
+
+**DevOps, Cloud & Architecture:**
+`Docker` • `GCP` • `FastAPI` • `Node.js` • `Git/GitHub Actions` • `PostgreSQL / Supabase`
+
+---
+
+### 📫 **Connect with Me**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/alissonfranclin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   <a href="https://www.youtube.com/TudoMaisConstante" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-  <a href="https://www.instagram.com/tmconstante/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="mailto:alissonf216@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/alissonfranclin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href = "mailto:alissonf216@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+</p>
 
-<hr/>
+---
 
 <div align="center">
-  <a href="https://github.com/alissonf216?tab=repositories">
+  <a href="https://github.com/alissonf216">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alissonf216&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonf216&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<!--   <img align="center" alt="SAS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sas/sas-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg"> -->
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<!--   <img align="center" alt="Jupyter" height="30" width="40" src="ícone-do-jupyter.svg"> -->
-</div>
-<hr>

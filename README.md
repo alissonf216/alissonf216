@@ -48,9 +48,16 @@ My core focus lies in developing robust NLP frameworks for complex, real-world d
 
 ---
 
+### 📊 **GitHub Activity & Contributions**
+
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alissonf216&show_icons=true&theme=dark" alt="Alisson's GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonf216&layout=compact&theme=dark&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alissonf216&theme=dark&hide_border=true" alt="GitHub Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonf216&layout=compact&theme=dark&hide_border=true&hide=html,css" alt="Top Languages" width="45%" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/409ba5/alissonf216" alt="Alisson's Github Contributions Graph" width="100%" />
+</div>
 ---

@@ -32,7 +32,6 @@ My core focus lies in developing robust NLP frameworks for complex, real-world d
 `Docker` • `GCP` • `FastAPI` • `Node.js` • `Git/GitHub Actions` • `PostgreSQL / Supabase`
 
 ---
-
 ### 📫 **Connect with Me**
 
 <p align="left">
@@ -50,8 +49,8 @@ My core focus lies in developing robust NLP frameworks for complex, real-world d
 ---
 
 <div align="center">
-  <a href="https://github.com/alissonf216">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alissonf216&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonf216&layout=compact&langs_count=7&theme=dark"/>
-  </a>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alissonf216&show_icons=true&theme=dark" alt="Alisson's GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonf216&layout=compact&theme=dark&hide=html,css" alt="Top Languages" />
 </div>
+
+---

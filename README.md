@@ -38,7 +38,7 @@ My core focus lies in developing robust NLP frameworks for complex, real-world d
   <a href="https://www.linkedin.com/in/alissonfranclin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.youtube.com/TudoMaisConstante" target="_blank">
+  <a href="[https://www.youtube.com/TudoMaisConstante](https://www.youtube.com/@tudomaisconstante?sub_confirmation=1" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
   <a href="mailto:alissonf216@gmail.com">

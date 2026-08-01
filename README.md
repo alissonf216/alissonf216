@@ -18,8 +18,8 @@ My core focus lies in developing robust NLP frameworks for complex, real-world d
 
 ### 🎯 **Key Projects & Contributions**
 - 🏛️ **[Parliamentary NLP MCP Server](https://github.com/alissonf216/parliamentary-nlp-mcp):** A Model Context Protocol (MCP) server designed to audit, classify, and inspect offensive language and hate speech in formal legislative proceedings using custom fine-tuned models.
-- 🚀 **[Licitera Architecture]:** SaaS platform & automated bidding engines built for public procurement monitoring using advanced text extraction and real-time processing.
-- 📺 **[Tudo Mais Constante]:** Technical content creation focused on Data Science, Software Development, and Applied Mathematics.
+- 🚀 **[Licitera Architecture](https://github.com/alissonf216/licitech-architecture-showcase):** SaaS platform & automated bidding engines built for public procurement monitoring using advanced text extraction and real-time processing.
+- 📺 **[Tudo Mais Constante](https://www.youtube.com/@tudomaisconstante?sub_confirmation=1):** Technical content creation focused on Data Science, Software Development, and Applied Mathematics.
 
 ---
 

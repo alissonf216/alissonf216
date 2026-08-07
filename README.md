@@ -1,6 +1,6 @@
 # Hi there, I'm Alisson Oliveira 👋
 
-### **M.Sc. in Computer Science | AI & NLP Researcher | Senior Software Engineer**
+### **M.Sc. in Computer Science | AI Researcher | Software Engineer | NLP • LLMs • Machine Learning**
 
 I am a Computer Science Master's researcher and Software Engineer specialized in **Natural Language Processing (NLP)**, **Applied Machine Learning**, and **Production-Grade Software Architecture**. 
 

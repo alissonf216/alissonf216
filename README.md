@@ -17,10 +17,14 @@ My core focus lies in developing robust NLP frameworks for complex, real-world d
 ---
 
 ### 🎯 **Key Projects & Contributions**
-- 🏛️ **[Parliamentary NLP MCP Server](https://github.com/alissonf216/parliamentary-nlp-mcp):** A Model Context Protocol (MCP) server designed to audit, classify, and inspect offensive language and hate speech in formal legislative proceedings using custom fine-tuned models.
-- 🚀 **[Licitera Architecture](https://github.com/alissonf216/licitech-architecture-showcase):** SaaS platform & automated bidding engines built for public procurement monitoring using advanced text extraction and real-time processing.
-- 📺 **[Tudo Mais Constante](https://www.youtube.com/@tudomaisconstante?sub_confirmation=1):** Technical content creation focused on Data Science, Software Development, and Applied Mathematics.
 
+- 📄 **[Majority Voting and Composite Score: An Ensemble Approach for Short Squeeze Detection in Financial Time Series](https://doi.org/10.2139/ssrn.7204102):** Research proposing an ensemble framework for short squeeze detection through unsupervised anomaly detection, majority voting, and a novel Composite Score. Companion dataset available [here](https://github.com/alissonf216/short-squeeze-dataset).
+
+- 🏛️ **[Parliamentary NLP MCP Server](https://github.com/alissonf216/parliamentary-nlp-mcp):** A production-ready Model Context Protocol (MCP) server that brings Transformer-based NLP research into real-world applications, enabling the auditing, classification, and inspection of offensive language and hate speech in parliamentary proceedings.
+
+- 🚀 **[Licitera Architecture](https://github.com/alissonf216/licitech-architecture-showcase):** SaaS platform and automated bidding engine for public procurement, integrating intelligent document processing, information extraction, and scalable backend services.
+
+- 📺 **[Tudo Mais Constante](https://www.youtube.com/@tudomaisconstante?sub_confirmation=1):** Technical content creation focused on Artificial Intelligence, Data Science, Software Engineering, and Applied Mathematics.
 ---
 
 ### 🛠️ **Tech Stack & Tools**

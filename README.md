@@ -26,11 +26,17 @@ My core focus lies in developing robust AI and Machine Learning solutions for co
 
 ### 🛠️ **Tech Stack & Tools**
 
-**Languages & AI/ML:**
-`Python` • `PyTorch` • `Hugging Face` • `TypeScript` • `JavaScript` • `SQL` • `Applied Math/Statistics`
+**Programming & AI:**  
+`Python` • `PyTorch` • `Hugging Face` • `TypeScript` • `JavaScript` • `SQL`
 
-**DevOps, Cloud & Architecture:**
-`Docker` • `GCP` • `FastAPI` • `Node.js` • `Git/GitHub Actions` • `PostgreSQL / Supabase`
+**Machine Learning & Data Science:**  
+`Machine Learning` • `Deep Learning` • `Natural Language Processing (NLP)` • `Large Language Models (LLMs)` • `Applied Statistics` • `Mathematical Modeling`
+
+**Software Engineering:**  
+`FastAPI` • `Node.js` • `REST APIs` • `Software Architecture`
+
+**DevOps, Cloud & Infrastructure:**  
+`Docker` • `Git/GitHub Actions` • `Google Cloud Platform (GCP)` • `PostgreSQL` • `Supabase` • `Vercel`
 
 ---
 ### 📫 **Connect with Me**

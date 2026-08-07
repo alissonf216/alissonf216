@@ -2,9 +2,9 @@
 
 ### **M.Sc. in Computer Science | AI Researcher | Software Engineer | NLP • LLMs • Machine Learning**
 
-I am a Computer Science Master's researcher and Software Engineer specialized in **Natural Language Processing (NLP)**, **Applied Machine Learning**, and **Production-Grade Software Architecture**. 
+I am a Software Engineer with a Master's degree in Computer Science, specializing in **Natural Language Processing (NLP)**, **Applied Machine Learning**, and **Production-Grade Software Architecture**.
 
-My core focus lies in developing robust NLP frameworks for complex, real-world domains—such as auditing formal political discourse using Transformers and building LLM integrations via modern protocols like MCP (Model Context Protocol).
+My core focus lies in developing robust AI and Machine Learning solutions for complex, real-world problems—from Transformer-based NLP and LLM systems to anomaly detection and predictive modeling for financial markets.
 
 ---
 

@@ -5,6 +5,7 @@
 I am a Software Engineer with a Master's degree in Computer Science, specializing in **Natural Language Processing (NLP)**, **Applied Machine Learning**, and **Production-Grade Software Architecture**.
 
 My core focus lies in developing robust AI and Machine Learning solutions for complex, real-world problems—from Transformer-based NLP and LLM systems to anomaly detection and predictive modeling for financial markets.
+
 ---
 
 ### 🔬 **Research & Technical Focus**

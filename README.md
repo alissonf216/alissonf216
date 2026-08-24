@@ -37,6 +37,7 @@ My core focus lies in developing robust AI and Machine Learning solutions for co
 
 **DevOps, Cloud & Infrastructure:**  
 `Docker` • `Git/GitHub Actions` • `Google Cloud Platform (GCP)` • `PostgreSQL` • `Supabase` • `Vercel`
+
 ---
 ### 📫 **Connect with Me**
 

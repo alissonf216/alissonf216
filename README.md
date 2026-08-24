@@ -14,7 +14,6 @@ My core focus lies in developing robust AI and Machine Learning solutions for co
 - **Data Science & Math:** Mathematical Modeling, Applied Statistics, and Predictive Engines.
 - **DevOps & Cloud Infrastructure:** Docker Containerization, CI/CD, GCP, Vercel, Supabase, and Scalable Backend Architecture.
 
-
 ---
 
 ### 🎯 **Key Projects & Contributions**
